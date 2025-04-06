@@ -1,0 +1,16 @@
+/* static/css/admin.css */
+#header {
+    background: #1f1f1f; /* fundo escuro, opcional */
+    padding: 10px;
+}
+
+/* Deixa o header com o logo da empresa */
+#header {
+    background: #000; /* cor de fundo do topo */
+    background-image: url("../img/logo_starktech.png");
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    background-size: 40px;
+    padding-left: 60px;
+    color: white;
+}
